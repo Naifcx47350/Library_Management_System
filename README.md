@@ -26,4 +26,3 @@
 <p>
   Contributions are welcome! Please fork this repository and submit pull requests with improvements.
 </p>
-<h2>License</h2>
